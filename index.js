@@ -17,7 +17,7 @@ var itemObj = {itemName:`${item}`, itemPrice: Math.floor(Math.random()*100)}
   return itemObj.itemName + " has been added to your cart."
 }
 
-function viewCart() {
+// function viewCart() {
   // write your code here
   
   function viewCart() {
